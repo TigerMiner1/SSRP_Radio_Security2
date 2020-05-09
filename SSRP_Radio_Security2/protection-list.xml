@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<protectedUsers>
+		<user>
+			<nickname>Patrick L. 1A-1</nickname>
+			<tsuid>Cug2qhxxrlWeoQQWS6IYkShG3T8=</tsuid>
+		</user>
+		<user>
+			<nickname>Nicholas B. 1A-2 | SST-1</nickname>
+			<tsuid>Ku4pHvfke9JJtXz3Ix0uYQwGVSg=</tsuid>
+		</user>
+		<serverGroups>
+			<tssg>201</tssg> <!-- Head Administrator -->
+			<tssg>197</tssg> <!-- Server Management -->
+			<tssg>203</tssg> <!-- Board of Directors -->
+		</serverGroups>
+	</protectedUsers>
+</plugin>

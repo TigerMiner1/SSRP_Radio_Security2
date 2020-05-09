@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<versions>
+		<current>2.0.0</current>
+	</versions>
+	<betausers>
+		<servergroups>
+			<tssg>174</tssg> <!-- Dev -->
+			<tssg>130</tssg> <!-- Beta -->
+			<tssg>197</tssg> <!-- Server Management -->
+		</servergroups>
+	</betausers>
+</plugin>

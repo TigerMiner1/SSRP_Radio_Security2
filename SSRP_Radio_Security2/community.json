@@ -1,0 +1,82 @@
+{
+    "plugin_status": true,
+    "dispatch_server_groups": [],
+    "civilian_server_groups": [],
+    "civ_channels": [1],
+    "radio_systems": [12, 59, 42, 23],
+    "radio_channels": [
+        {
+            "id": 1,
+            "name": "State Ops",
+            "type": "LEO",
+            "colored_name": "[color=red]State Ops[/color]",
+            "talk_enforcement": true,
+            "encrypted": false
+        },
+        {
+            "id": 2,
+            "name": "Fire Ops",
+            "type": "LEO",
+            "colored_name": "[color=red]Fire Ops[/color]",
+            "talk_enforcement": true,
+            "encrypted": false
+        },
+        {
+            "id": 3,
+            "name": "Tac 1",
+            "type": "LEO",
+            "colored_name": "[color=purple]Tac 1[/color]",
+            "talk_enforcement": true,
+            "encrypted": true
+        },
+        {
+            "id": 4,
+            "name": "Tac 2",
+            "type": "LEO",
+            "colored_name": "[color=purple]Tac 2[/color]",
+            "talk_enforcement": true,
+            "encrypted": true
+        }
+    ],
+    "time_settings": {
+        "emergency_override_period": 10,
+        "emergency_cooldown": 45,
+        "emergency_other_cooldown": 20,
+        "dispatch_tone_cooldown": 15,
+        "radio_stun_cooldown": 5,
+        "radio_ping_cooldown": 10,
+        "911_cooldown": 30,
+        "command_stun_period": 300,
+        "tone_wait_talk_period": 5
+    },
+    "permissions": {
+        "perm_basic": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_extra": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_sit": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_staff": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_senior": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_admin": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        },
+        "perm_super": {
+            "server_group_list": [""],
+            "client_uid_list": [""]
+        }
+    }
+}
